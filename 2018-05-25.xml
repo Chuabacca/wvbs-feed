@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+ 
+  <channel>
+
+    <title>WVBS Sessions</title>
+    <description>Recordings from Cornerstone WVBS.</description>
+    <link>https://www.dropbox.com/s/usw4koor9tjwu4h/WVBS%20-%20Chris%20Hamilton%20-%20Parenting%20Q%26A.mp3?dl=0</link>
+    <language>en-us</language>
+    <copyright>Copyright 2018</copyright>
+    <lastBuildDate>Fri, 25 May 2018 19:30:00 -0700</lastBuildDate>
+    <pubDate>Fri, 25 May 2018 19:30:00 -0700</pubDate>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <webMaster>one53largefish@gmail.com</webMaster>
+
+    <item>
+      <title>Chris Hamilton - Parenting Q&amp;A</title>
+      <link>https://www.dropbox.com/s/usw4koor9tjwu4h/WVBS%20-%20Chris%20Hamilton%20-%20Parenting%20Q%26A.mp3?dl=0</link>
+      <guid>https://www.dropbox.com/s/usw4koor9tjwu4h/WVBS%20-%20Chris%20Hamilton%20-%20Parenting%20Q%26A.mp3?dl=1</guid>
+      <description>A Q&amp;A session with Chris Hamilton to kick off our parenting series. Deuteronomy 6 and other scriptures.</description>
+      <enclosure url="https://www.dropbox.com/s/usw4koor9tjwu4h/WVBS%20-%20Chris%20Hamilton%20-%20Parenting%20Q%26A.mp3?dl=1" length="100415868" type="audio/mpeg"/>
+      <category>Podcasts</category>
+      <pubDate>Fri, 25 May 2018 19:30:00 -0700</pubDate>
+    </item>
+
+  </channel>
+
+</rss>
